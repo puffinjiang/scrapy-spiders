@@ -1,6 +1,5 @@
 
 import random
-from os import name
 
 from douban.items import PopularBooks
 from douban.settings import USER_AGENT
